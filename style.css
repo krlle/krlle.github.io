@@ -1,3 +1,6 @@
+* {
+    box-sizing: border-box;
+}
 body {
   background-color:slategray;
 }
@@ -12,15 +15,31 @@ p {
 }
 
 a {
-  text-align: center;
+  text-align:center;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   padding: 2vw;
   color: black;
+  align-items: end;
 }
 
 img {
-  display: block;
+ display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 70%;
+  height: 80%;
+  position: relative;
+  
+
+}
+.carouselImage {
+    display: flex;
+    align-items: center;
+    height: 40vw;
+    
+
+}
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
