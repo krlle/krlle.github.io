@@ -12,20 +12,24 @@ p {
   padding: 2vw;
   font-size: 3vw;
   margin: 1vw;
+  order:1;
 }
 .tittel{
     height: 10%;
+    
 
 }
 .car {
     height: 50%;
+    order:2;
 }
 a {
   text-align:center;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   padding: 2vw;
   color: black;
-  align-items: end;
+  align-self: flex-end;
+  order:3;
 }
 
 img {
@@ -41,6 +45,7 @@ img {
     display: flex;
     align-items: center;
     height: 40vw;
+
     
 
 }
@@ -48,4 +53,11 @@ img {
     display: flex;
     flex-direction: column;
     justify-content: center;
+}
+
+@media (max-width: 769) {
+    img{
+        height: auto
+        width:90%
+    }
 }
