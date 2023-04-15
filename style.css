@@ -5,18 +5,18 @@ p {
     color: black;
     font-family:Arial, Helvetica, sans-serif;
     text-align: left;
-    padding: 40px;
-    font-size: 30px;
-    margin: 100px;
+    padding: 30px;
+    font-size: 5vw;
+    margin: 10px;
 }
 a {
      text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    padding: 40px;
+    padding: 30px;
 
 }
 img {
       display: block;
   margin-left: auto;
   margin-right: auto;
-    width: 50%; }
+    width: 70%; }
