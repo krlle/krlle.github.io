@@ -1,5 +1,5 @@
 body {
-  background-color: darkgray;
+  background-color:slategray;
 }
 
 p {
@@ -15,6 +15,7 @@ a {
   text-align: center;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   padding: 2vw;
+  color: black;
 }
 
 img {
