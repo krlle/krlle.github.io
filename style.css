@@ -13,7 +13,13 @@ p {
   font-size: 3vw;
   margin: 1vw;
 }
+.tittel{
+    height: 10%;
 
+}
+.car {
+    height: 50%;
+}
 a {
   text-align:center;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
