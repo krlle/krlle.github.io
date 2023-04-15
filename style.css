@@ -57,7 +57,9 @@ img {
 
 @media (max-width: 769) {
     img{
-        height: auto
-        width:90%
+        height: auto;
+        width:90%;
     }
+    
+
 }
