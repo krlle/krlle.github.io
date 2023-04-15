@@ -6,15 +6,15 @@ p {
   color: black;
   font-family: Arial, Helvetica, sans-serif;
   text-align: left;
-  padding: 30px;
-  font-size: 5vw;
-  margin: 10px;
+  padding: 2vw;
+  font-size: 3vw;
+  margin: 1vw;
 }
 
 a {
   text-align: center;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
-  padding: 30px;
+  padding: 2vw;
 }
 
 img {
